@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = t.bayard.pro@gmail.com
+	name = Thibault Bayard
